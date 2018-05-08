@@ -9,3 +9,6 @@ Actividades
 	<td><img src="https://github.com/Jesus132/Pensum2/blob/master/3.jpeg"</td>
   </tr>
 </table>
+
+Error
+<td><img src="https://github.com/Jesus132/Pensum2/blob/master/4.jpeg"</th>
