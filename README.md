@@ -29,3 +29,6 @@ adiestramiento, la preparación de los futuros profesionales. Esto quiere decir 
 además de las técnicas propias de cada asignatura, se busca que el aprendiz
 adquiera responsabilidad acerca del futuro laboral que tendrá y la incidencia que
 obtendrá a nivel social.
+
+# Banner 
+<td><img src="https://github.com/Jesus132/Pensum2/blob/master/Banner%202.png"</th>
