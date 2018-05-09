@@ -10,7 +10,7 @@ Actividades
   </tr>
 </table>
 
-Error
+# Error
 <td><img src="https://github.com/Jesus132/Pensum2/blob/master/4.jpeg"</th>
 	
 	
