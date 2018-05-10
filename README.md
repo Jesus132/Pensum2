@@ -31,4 +31,4 @@ adquiera responsabilidad acerca del futuro laboral que tendrá y la incidencia q
 obtendrá a nivel social.
 
 # Banner 
-<td><img src="https://github.com/Jesus132/Pensum2/blob/master/Banner%202.png"</th>
+<td><img src="https://github.com/Jesus132/Pensum2/blob/master/icono3.png"</th>
